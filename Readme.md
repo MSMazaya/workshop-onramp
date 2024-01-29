@@ -18,6 +18,8 @@ Ada mahasiswa bernama Deedat, kelas 02, dengan nim 13320XXX.
 >> Masukkan Nama: STOP
 ```
 
+Syarat program: harus pake fungsi dalam fungsi (contohnya kayak listMahasiswa.forEach())
+
 Cara kerjain: bikin file `[nama]_tugas_js.js`
 
 Tugas belajar tambahan:
