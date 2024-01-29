@@ -17,3 +17,9 @@ Ada mahasiswa bernama Mazaya, kelas 01, dengan nim 13320028.
 Ada mahasiswa bernama Deedat, kelas 02, dengan nim 13320XXX.
 >> Masukkan Nama: STOP
 ```
+
+Cara kerjain: bikin file `[nama]_tugas_js.js`
+
+Tugas belajar tambahan:
+1. Belajar cara import
+2. Belajar cara pake NPM buat install library
