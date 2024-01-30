@@ -20,7 +20,7 @@ Ada mahasiswa bernama Deedat, kelas 02, dengan nim 13320XXX.
 
 Syarat program: harus pake fungsi dalam fungsi (contohnya kayak listMahasiswa.forEach())
 
-Cara kerjain: bikin file `[nama]_tugas_js.js`
+Cara kerjain: bikin file `[nama]_tugas_js.js` di fork repository masing-masing, terus pull request ke repository ini.
 
 Tugas belajar tambahan:
 1. Belajar cara import
